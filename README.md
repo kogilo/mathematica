@@ -1,5 +1,10 @@
 # Wolfram Language kernel for Jupyter notebooks
 
+
+After you carefully follow the instruction mentioned below and install the Wolfram on your system, run the following code to activate it
+
+<code>wolframscript -activate</code>
+
 Jupyter provides a protocol (ZMQ) to connect their notebooks to various languages. This project defines a Wolfram Language kernel which can be used in Jupyter notebooks.
 
 # Prerequisites
